@@ -1,5 +1,11 @@
 # 💫 About Me:
-CS postgrad (AI & ML) | Building & deploying ML, DL and NLP systems | On the path to GenAI | All projects are live
+I hold an MSc in AI & ML from Central University of Rajasthan, and over the last few months I've been shifting my focus from classic ML/DL into building with LLMs.
+ 
+My recent work centers on Retrieval-Augmented Generation — I built a conversational RAG system with history-aware retrieval (so it can handle follow-up questions, not just one-shot queries) using LangChain, ChromaDB, and the Groq API, and a multi-tool LLM agent that routes between web search, a calculator, and a reasoning chain depending on what's being asked. I've worked with both ChromaDB and FAISS as vector stores, and used LangSmith to trace and debug the pipelines.
+ 
+Before this I built and deployed three end-to-end ML/DL apps on Streamlit — an LSTM-based next-word predictor, an RNN sentiment classifier, and a content-based movie recommender — so I'm comfortable across the full pipeline: data → training → evaluation → deployment, not just prompting an API.
+ 
+Currently looking for Junior GenAI Engineer / ML Engineer roles where I can keep building production-grade LLM applications. Always happy to talk shop about RAG architectures, agent design, or anything ML— feel free to reach out.
 
 
 ## 🌐 Socials:
